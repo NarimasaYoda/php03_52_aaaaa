@@ -19,16 +19,16 @@
 
 <body>
     <ul>
-        <li><a href="index.php">index.php</a></li>
-        <li><a href="insert.php">insert.php</a></li>
-        <li><a href="select.php">select.php</a></li>
+        <li><a href="index_kadai2.php">index_2.php</a></li>
+        <li><a href="insert_kadai2.php">insert_2.php</a></li>
+        <li><a href="select_kadai2.php">select_2.php</a></li>
     </ul>
 
     <!-- Head[Start] -->
     <header>
         <nav class="navbar navbar-default">
             <div class="container-fluid">
-                <div class="navbar-header"><a class="navbar-brand" href="select.php">データ入力</a></div>
+                <div class="navbar-header"><a class="navbar-brand" href="select_kadai.php">データ入力</a></div>
             </div>
         </nav>
     </header>

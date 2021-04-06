@@ -9,9 +9,9 @@
 <body>
  
     <ul>
-        <li><a href="index.php">index.php</a></li>
-        <li><a href="insert.php">insert.php</a></li>
-        <li><a href="select.php">select.php</a></li>
+    <li><a href="index_kadai2.php">index_2.php</a></li>
+        <li><a href="insert_kadai2.php">insert_2.php</a></li>
+        <li><a href="select_kadai2.php">select_2.php</a></li>
     </ul>
 
 <?php
